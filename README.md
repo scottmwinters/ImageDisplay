@@ -2,7 +2,7 @@
 
 ###Image Display
 
-For this assignment I used the X11 to create a image viewer for .ppm files.
+For this assignment I used the X11 library to create a image viewer for .ppm files.
 
 Requirements: Linux Based system with X11/Xlib.h library
 
